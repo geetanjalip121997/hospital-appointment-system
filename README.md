@@ -1,12 +1,11 @@
 #  Hospital Appointment Booking System
 
 ##  Project Overview
-The Hospital Appointment Booking System is a beginner-friendly Python project designed to manage patient appointment booking through a simple menu-based process.
+The Hospital Appointment Booking System is a beginner-friendly Python project designed to manage patient appointment booking.
 
 It verifies patient details, validates age, allows department selection, calculates appointment fees and applicable discounts, and checks the patient's available balance.
 
 ##  Features
-- Patient ID verification with a maximum of 3 attempts
 - Patient age validation (1–120 years)
 - Three department options:
   - General
@@ -38,17 +37,6 @@ It verifies patient details, validates age, allows department selection, calcula
 - Children (age 12 or below): 25% discount
 - Other patients: No discount
 
-##  How to Run
-1. Install Python 3 on your computer.
-2. Download or clone this repository.
-3. Open the project folder.
-4. Run the Python file:
-
-```bash
-python your_file_name.py
-```
-
-Replace `your_file_name.py` with your actual Python filename.
 
 ##  Learning Outcomes
 This project helped me understand:
